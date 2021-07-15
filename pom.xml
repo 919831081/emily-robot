@@ -4,10 +4,10 @@
     <modelVersion>4.0.0</modelVersion>
     <packaging>pom</packaging>
     <modules>
-        <!-- <module>automatic-process-config</module> -->
-
-        <module>automatic-process-config</module>
-        <module>automatic-process-runner</module>
+        <module>emily-robot-common</module>
+        <module>emily-robot-server</module>
+        <module>emily-robot-runner</module>
+        <module>emily-robot-data-center</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

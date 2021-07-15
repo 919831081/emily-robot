@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="CheckStyle-IDEA-Module">
+    <option name="configuration">
+      <map />
+    </option>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_12">
+    <output url="file://$MODULE_DIR$/../emily-robot-server/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../emily-robot-server/target/test-classes" />
+    <content url="file://$MODULE_DIR$/../emily-robot-server">
+      <sourceFolder url="file://$MODULE_DIR$/../emily-robot-server/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../emily-robot-server/src/main/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../emily-robot-server/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
